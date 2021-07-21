@@ -1,6 +1,6 @@
 {
   "name": "graphql-portal-dashboard-frontend",
-  "version": "0.19.1",
+  "version": "0.19.2",
   "private": true,
   "dependencies": {
     "@apollo/client": "3.3.21",

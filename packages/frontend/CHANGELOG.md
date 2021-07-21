@@ -1,5 +1,11 @@
 # graphql-portal-dashboard-frontend
 
+## 0.19.2
+
+### Patch Changes
+
+- 1ea56b7: Tour fix
+
 ## 0.19.1
 
 ### Patch Changes
